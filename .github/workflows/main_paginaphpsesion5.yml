@@ -56,5 +56,5 @@
           with:
             app-name: 'paginaphpsesion5'
             slot-name: 'production'
-            publish-profile: ${{ secrets.AzureAppService_PublishProfile_f4de11415b6a45b79478073764e44217 }}
+            publish-profile: ${{ secrets.AzureAppService_PublishProfile_7ebd1ad1314949b7bc0630f823c66467 }}
             package: .
